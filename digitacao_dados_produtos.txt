@@ -1,0 +1,40 @@
+101
+Caneta Azul
+1.5
+100
+102
+Caderno Universitário
+12.9
+50
+103
+Borracha Branca
+0.99
+200
+104
+Lápis Preto
+0.75
+150
+105
+Apontador
+1.2
+0
+106
+Mochila Escolar
+89.9
+30
+107
+Estojo
+15.0
+60
+108
+Cola Branca 250ml
+3.8
+0
+109
+Régua 30cm
+2.5
+80
+110
+Tesoura Escolar
+4.75
+20
